@@ -6,7 +6,7 @@ export default function Home() {
     <main>
       <Title>Samuel W. Dowd</Title>
       <h1>Under Construction</h1>
-      <p>In the meantime feel free to visit my <a href="https://www.linkedin.com/in/samuelwdowd/">LinkedIn</a> profile. Or, feel free to play with the Counter that was so generously provided by the SolidStart template this page is built on.</p>
+      <p>In the meantime feel free to visit my <a href="https://www.linkedin.com/in/samuelwdowd/">LinkedIn</a>profile. Or, feel free to play with the Counter that was so generously provided by the SolidStart template this page is built on.</p>
       <Counter />
       <p>
         Visit{" "}
